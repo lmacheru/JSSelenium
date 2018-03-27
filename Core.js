@@ -15,6 +15,7 @@ var core = function() {
     this.Gotourl = function (url){
         //Moves old existing screen to backup folder
         //this.createfolder('Wahhh2');
+        
         return driver.get(url)
     }
 

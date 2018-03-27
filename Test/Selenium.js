@@ -2,6 +2,7 @@ var func = require('../Core')
 var url ="http://localhost:8080";
 var Core;
 
+
 var TestName="Selelogin";
 
     Core = new func();
